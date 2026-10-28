@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.zip
+dados.json
+manifesto.json
+node_modules/
